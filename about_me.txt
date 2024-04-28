@@ -1,0 +1,5 @@
+In this internship based term - we would be learning various tasks in sprints .
+1. Github and Python
+2. Basics and advanced python 
+3. Data visualization and story telling 
+and many more projects that will be performed based on the mentioned topics!
